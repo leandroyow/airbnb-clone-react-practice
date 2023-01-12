@@ -1,0 +1,95 @@
+body {
+  background-color: #e5e5e5;
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  width: 510px;
+  height: 61px;
+
+  -webkit-box-shadow: 2px 6px 13px -4px #e5e5e5;
+  -moz-box-shadow: 2px 6px 13px -4px #e5e5e5;
+  box-shadow: 2px 6px 13px -4px #e5e5e5;
+  background-color: white;
+  
+}
+
+section {
+  width: 510px;
+  height: 325px;
+  background-color: white;
+}
+
+section img {
+  width: 320px;
+  height: 200px
+}
+
+.container-title {
+  width: 510px;
+  background-color: white;
+}
+.container-title p {
+  font-size: 13px;
+}
+
+ul {
+  background-color: black;
+  height: 300px;
+  width: 510px;
+  max-width: 510px;
+  background-color: white;
+}
+
+div li, li img {
+  width: 150px;
+  height: 200px;
+}
+
+.status {
+  background-color: white;
+  top: 3%;
+  left: 3%;
+  font-size: 11px;
+  font-family: "Inter", sans-serif;
+  width: 65px;
+  height: 18px;
+  font-weight: 500;
+}
+
+.information {
+  width: 420px;
+}
+
+.information img {
+  width: 14px;
+  height: 14px;
+}
+
+.info-description {
+  font-size: 10px;
+  height: 0px;
+}
+
+.information-second {
+  font-size: 13px;
+}
+
+.information-second p {
+  height: 3px;
+  font-family: "Poppins", sans-serif;
+  font-style: light;
+}
+
+.information-second span {
+ color: #918E9B;
+}
+
+.last-info {
+  font-size: 12px;
+}
+
+
+
+
+
